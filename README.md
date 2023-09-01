@@ -47,7 +47,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+![best fit line](img.png)
 
 
 ## Result:
